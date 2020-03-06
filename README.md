@@ -1,6 +1,6 @@
 # Zeal Test Framework
 
-Framework helps to run all test files in a directory to execute.
+Framework helps to execute all test files in a directory.
 
 ## Dependencies
 
