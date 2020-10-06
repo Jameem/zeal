@@ -4,7 +4,7 @@ A simple framework to execute all test files in a directory.
 
 ## Dependencies
 
-Install these prerequisites to follow along
+Install these prerequisites to follow along,
 
 - NPM: https://nodejs.org
 
